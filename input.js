@@ -5,7 +5,7 @@
 格式：token=xxxx&userid=12345678&openid=xxxxs
 openid提现用，非必须，没捉到就删掉
 
-默认9点提现，需要改的把提现时间(小时)填到kgWithdrawTime，如：
+默认9点提现，需要改的把提现时间(小时)填到kgWithdrawTimae，如：
 export kgWithdrawTime=10
 
 一天跑50次以上
